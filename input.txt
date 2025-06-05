@@ -1,0 +1,4 @@
+cuando alarma es apagado entonces desactivar sirena;
+
+
+

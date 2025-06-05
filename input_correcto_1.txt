@@ -1,0 +1,1 @@
+cuando luz es apagado entonces desactivar luz;
