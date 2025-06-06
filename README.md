@@ -1,4 +1,4 @@
-Instrucciones para ejecutar la aplicación
+INSTRUCCIONES PARA EJECUTAR LA APLICACION
 Requisitos previos
 Node.js instalado en su computadora.
 JRE (Java Runtime Environment) instalado en su computadora.
