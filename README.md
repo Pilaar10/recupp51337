@@ -4,10 +4,7 @@ Node.js instalado en su computadora.
 JRE (Java Runtime Environment) instalado en su computadora.
 Dependencias instaladas (ejecuta npm install en la carpeta del proyecto para comprobar su existencia en su equipo).
 Ejecución de la aplicación
-Clona el repositorio con GitHub. Link: 
-Copia el directorio del repositorio incluida la carpeta ssl-antlr-Language.
-Abre una terminal y luego coloca cd + (el directorio que copiaste recientemente):
-cd C:\...\ssl-antrl-Language
+Clona el repositorio con GitHub. Link: https://github.com/Pilaar10/recupp51337.git
 Asegúrate de que los archivos de entrada (inputs) correctos e incorrectos estén presentes.
 Elige una entrada con un input correcto. Esto es esencial, ya que el analizador funciona correcto.
 Colocar en la terminal "node index.js" . En caso de que se trate de una entrada válida, deberías poder ver en la pantalla:
