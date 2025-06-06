@@ -21,4 +21,4 @@ La salida del código fuente (input.txt) en lenguaje JavaScript y la ejecutació
 
 Nota:
 Si deseas probar con otro archivo de entrada, puedes volver a colocar en la terminal "node index.js" y escoger otro input distinto al elegido anteriormente.
-No me dejo introducir todo el file porque superaba los 100
+No me dejo introducir todo el file porque superaba los 100, solo pude agregar lo que yo hice
